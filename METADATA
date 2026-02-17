@@ -14,7 +14,8 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/tink-crypto/tink-java"
-    version: "v1.16.0"
+    version: "a8214b88ebefb7b4be4dc0820df2a0527e9119f8"
+    closest_version: "v1.16.0"
     primary_source: true
   }
 }
